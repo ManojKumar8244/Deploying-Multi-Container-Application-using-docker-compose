@@ -54,6 +54,7 @@ docker-compose-voting-app/
 │   ├── Screenshot of application working through browser.png
 │   └── Screenshot of running containers.png
 │
+├── Architecture.png
 ├── result/
 │   ├── tests/
 │   ├── views/
