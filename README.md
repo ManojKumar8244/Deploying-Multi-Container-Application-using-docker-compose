@@ -54,7 +54,6 @@ docker-compose-voting-app/
 │   ├── Screenshot of application working through browser.png
 │   └── Screenshot of running containers.png
 │
-├── Architecture.png
 ├── result/
 │   ├── tests/
 │   ├── views/
@@ -79,6 +78,7 @@ docker-compose-voting-app/
 │   ├── Program.cs
 │   └── Worker.csproj
 │
+├── Architecture.png
 ├── docker-compose.yml
 └── README.md
 ```
