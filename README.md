@@ -240,16 +240,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Screenshots
-
-Include the following screenshots:
-
-- Running Containers (`docker ps`)
-- Docker Compose Services (`docker compose ps`)
-- Application Running in Browser
-
----
-
 ## ✅ Project Outcome
 
 Successfully deployed a multi-container voting application using Docker Compose. Each application component was containerized independently and orchestrated using a single `docker-compose.yml` file. Docker Compose simplified service deployment, networking, dependency management, and lifecycle operations, providing an efficient and scalable solution for running a microservices-based application.
@@ -258,6 +248,6 @@ Successfully deployed a multi-container voting application using Docker Compose.
 
 ## 👨‍💻 Author
 
-**Manoj Kumar**
+**Manoj Kumar Nagamulla**
 
 - GitHub: https://github.com/ManojKumar8244
